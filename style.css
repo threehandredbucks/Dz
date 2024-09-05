@@ -23,6 +23,7 @@ body {
 }
 .auth-container .input-group {
     margin-bottom: 15px;
+    margin-right: 6%;
 }
 .auth-container .input-group label {
     display: block;
